@@ -9,6 +9,7 @@ This application leverages advanced machine learning techniques to predict the o
 
 - **[Ergast Developer API](https://ergast.com/mrd/):** Supplies historical and current Formula 1 data, including race results, driver standings, and more.
 - **[FastF1 Documentation](https://docs.fastf1.dev/):** A Python library designed for accessing and analyzing Formula 1 telemetry and timing data.
+- **[Jolpica F1](https://github.com/jolpica/jolpica-f1?tab=readme-ov-file):** A modern implementation of the Ergast Developer API, providing enhanced features and improved performance. 
 
 ---
 
