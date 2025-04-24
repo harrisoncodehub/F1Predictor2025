@@ -1,9 +1,17 @@
 # Formula 1 Predictor 
-### This application utilizies machine learning techniques to accurately predict the outcoms of the 2025 F1 season. Whether it comes down to pole position or the WDC winner. 
+### About the Application
 
+This application leverages advanced machine learning techniques to predict the outcomes of the 2025 Formula 1 season. From pole positions to the World Drivers' Championship (WDC) winner, it aims to provide accurate and insightful predictions.
 
-#### Api's used to Implement 
-- [Ergast Developer API](https://ergast.com/mrd/): Provides historical and current Formula 1 data, including race results, driver standings, and more.
-- [FastF1 Documentation](https://docs.fastf1.dev/): A Python library for accessing and analyzing Formula 1 telemetry and timing data.
+---
 
+### APIs Used
 
+- **[Ergast Developer API](https://ergast.com/mrd/):** Supplies historical and current Formula 1 data, including race results, driver standings, and more.
+- **[FastF1 Documentation](https://docs.fastf1.dev/):** A Python library designed for accessing and analyzing Formula 1 telemetry and timing data.
+
+---
+
+### References
+
+- [Quick Guide to Exploratory Data Analysis Using Jupyter Notebook](https://www.geeksforgeeks.org/quick-guide-to-exploratory-data-analysis-using-jupyter-notebook/)
